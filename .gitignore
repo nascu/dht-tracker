@@ -1,0 +1,4 @@
+*.pyc
+bulid/
+dist/
+dht_tracker.egg-info/
